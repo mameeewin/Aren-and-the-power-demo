@@ -1,4 +1,4 @@
- 
+ https://makecode.com/_esXYDeEwvX7K For The Demo
 
 
 > Open this page at [https://mameeewin.github.io/aren-and-the-power-demo/](https://mameeewin.github.io/aren-and-the-power-demo/)
